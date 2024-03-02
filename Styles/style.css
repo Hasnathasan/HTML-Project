@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box;
+}
+.linear-gradient{
+    background: linear-gradient(90.28deg, #142934 -13.37%, #29AC5D 98.59%);
+}
+
+.btn-bg{
+   background-color: #15AAFF96;
+   color: white;
+}
+
+
+.navbar{
+    background-image: url("../Images/BG.png");
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    padding: 0px;
+    
+}
+.logo-container{
+    /* position: relative; */
+}
+.logo{
+    width: 200px;
+}
+.logo2{
+    width: 250px;
+}
+.logo3{
+ width: 200px;
+}
+.w-img{
+    width: 300px;
+    height: 300px;
+}
+
+.card-bg{
+    background: 
+    /* Linear gradient */
+    url('../Images/Mask-group.png'),linear-gradient(281.64deg, #157a3e, #29ac5d)
+    /* Image */
+    ;
+  background-size: cover; /* Adjust as needed */
+  background-position: center; /* Adjust as needed */
+  /* Stack the linear gradient on top of the image */
+  position: relative;
+}
+.card2-bg{
+    background: 
+    /* Linear gradient */
+    url('../Images/Mask-group-2.png'),linear-gradient(281.64deg, #188A46 31.82%, rgba(42, 173, 95, 0.979) 84.68%)
+    /* Image */
+    ;
+  background-size: cover; /* Adjust as needed */
+  background-position: center; /* Adjust as needed */
+  /* Stack the linear gradient on top of the image */
+  position: relative;
+}
+.card3-bg{
+    background: 
+    /* Linear gradient */
+    url('../Images/Mask-group-2.png'),linear-gradient(287.12deg, #D18A20 39.54%, rgba(252, 177, 64, 0.863) 100%)
+
+    /* Image */
+    ;
+  background-size: cover; /* Adjust as needed */
+  background-position: center; /* Adjust as needed */
+  /* Stack the linear gradient on top of the image */
+  position: relative;
+}
+.card4-bg{
+    background: 
+    /* Linear gradient */
+    url('../Images/Mask-group-2.png'),linear-gradient(281.64deg, #175578 19.62%, #3392C7 89.44%)
+    /* Image */
+    ;
+  background-size: cover; /* Adjust as needed */
+  background-position: center; /* Adjust as needed */
+  /* Stack the linear gradient on top of the image */
+  position: relative;
+}
+.flame-image{
+    width: 40px;
+    height: 35px;
+    margin-bottom: 5px;
+}
+.arrow-btn{
+    background: #FFA800;
+    padding: 10px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-item{
+    outline: none;
+    border: 1px solid #78b480b0;
+    background: transparent;
+    color: white;
+}
+
+.footer-box{
+    background: url('../Images/Mask-group.png'),linear-gradient(92.38deg, #29AC5D -2.62%, #29AC5D -2.61%, #142934 100.17%, #29AC5D 100.17%);
+    padding: 50px;
+}
+
+
+
+
+
+
+
+
+
+
