@@ -21,6 +21,9 @@
 .logo-container{
     /* position: relative; */
 }
+.nav-small{
+    background: #13943e;
+}
 .logo{
     width: 200px;
 }
