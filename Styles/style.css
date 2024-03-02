@@ -108,6 +108,13 @@
     padding: 50px;
 }
 
+.main{
+    background: linear-gradient(to bottom, rgba(247, 247, 247, 0.377), rgb(255, 255, 255)), url('../Images/mainBG.png') ;
+    background-size: cover; /* Adjust as needed */
+    background-position: center top; /* Adjust as needed */
+    position: relative;
+}
+
 
 
 
